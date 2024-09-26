@@ -37,9 +37,6 @@
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhruvil-633&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvil-633&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvil-633&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
